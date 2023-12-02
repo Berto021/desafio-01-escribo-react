@@ -32,7 +32,7 @@ export const Form = () => {
       <form className='flex flex-col justify-center items-center gap-[1rem]'>
         <label>
           <input
-            className='mt-[1rem] w-[7.6rem] h-[3.2rem] rounded-[5px] p-[10px] font-bold text-[2rem] text-[#333333]'
+            className='mt-[1rem] w-[6rem] h-[3.2rem] rounded-[5px] p-[10px] font-bold text-[2rem] text-[#333333] sm:w-[7.6rem]'
             id='input'
             min='0'
             type='number'
@@ -53,7 +53,7 @@ export const Form = () => {
         <span className=''>{result && <>Resultado do somatório: {result}</>}</span>
       </div>
       <div className='flex justify-center items-center'>
-        <img className='mt-[2rem] w-[95%]' src={bg} alt='' />
+        <img className='mt-[2rem] w-[50rem] ' src={bg} alt='' />
       </div>
     </div>
   );
