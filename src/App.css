@@ -4,18 +4,7 @@
   margin: 0;
   padding: 0;
 }
-#input {
-  margin-top: 1rem;
-  width: 8rem;
-  height: 3.5rem;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  padding: 10px;
-  font-family: 'Nunito';
-  font-weight: 700;
-  font-size: 2rem;
-  color: #333;
-}
+
 form button:hover {
   color: #f7d9bc;
   background-color: #e58628;
