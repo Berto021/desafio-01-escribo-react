@@ -20,6 +20,13 @@ o projeto se consiste em um desafio técnico para a vaga de estágio da Escribo 
 
       →  Feito nos moldes do que a empresa se propõe
 
+      →  Árvore de commits bem estabelecida
+
+
+<div align="center">
+  <img src="/public/commits-tree.png" alt="Banner-project" />
+</div>
+
 ## ✔️ Resultado esperado
 
 <div align="center">
